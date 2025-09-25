@@ -10,6 +10,7 @@ public class Functionpassing{
     }
 
     static void change(int[] arr){
+
         arr[0]=99;
     }
 
