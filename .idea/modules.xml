@@ -7,6 +7,8 @@
       <module fileurl="file://$PROJECT_DIR$/Pattern/Pattern.iml" filepath="$PROJECT_DIR$/Pattern/Pattern.iml" />
       <module fileurl="file://$PROJECT_DIR$/Sorting/Sorting.iml" filepath="$PROJECT_DIR$/Sorting/Sorting.iml" />
       <module fileurl="file://$PROJECT_DIR$/javabasic.iml" filepath="$PROJECT_DIR$/javabasic.iml" />
+      <module fileurl="file://$PROJECT_DIR$/staticmember/non-static/non-static.iml" filepath="$PROJECT_DIR$/staticmember/non-static/non-static.iml" />
+      <module fileurl="file://$PROJECT_DIR$/staticmember/staticmember.iml" filepath="$PROJECT_DIR$/staticmember/staticmember.iml" />
     </modules>
   </component>
 </project>
